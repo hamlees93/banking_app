@@ -1,0 +1,11 @@
+{"first_name":"Paul","username":"gallo-sharks","password":"upupcronulla","balance":0.0}
+{"history":"02/09/2018 at 14:29 - Deposit worth $123.0. Balance is now: $123.0","balance":123.0}
+{"history":"02/09/2018 at 14:29 - Withdrawal worth $21.0. Balance is now: $102.0","balance":102.0}
+{"history":"02/09/2018 at 14:30 - Deposit worth $4321.0. Balance is now: $4423.0","balance":4423.0}
+{"history":"02/09/2018 at 14:30 - Withdrawal worth $23.0. Balance is now: $4400.0","balance":4400.0}
+{"history":"02/09/2018 at 14:31 - Withdrawal worth $10.0. Balance is now: $4390.0","balance":4390.0}
+{"history":"02/09/2018 at 14:31 - Withdrawal worth $0.0. Balance is now: $4390.0","balance":4390.0}
+{"history":"02/09/2018 at 14:31 - Withdrawal worth $23.0. Balance is now: $4367.0","balance":4367.0}
+{"history":"02/09/2018 at 14:31 - Withdrawal worth $23.32. Balance is now: $4343.68","balance":4343.68}
+{"history":"02/09/2018 at 14:32 - Withdrawal worth $23.32. Balance is now: $4390.0","balance":4390.0}
+{"history":"02/09/2018 at 14:32 - Withdrawal worth $23.32. Balance is now: $4400.0","balance":4400.0}

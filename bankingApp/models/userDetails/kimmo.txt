@@ -1,0 +1,3 @@
+{"first_name":"Brett","username":"kimmo","password":"password","balance":0.0}
+{"history":"02/09/2018 at 14:37 - Deposit worth $123.0. Balance is now: $123.0","balance":123.0}
+{"history":"02/09/2018 at 14:37 - Withdrawal worth $21.0. Balance is now: $102.0","balance":102.0}

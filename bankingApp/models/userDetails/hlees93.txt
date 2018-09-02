@@ -1,0 +1,8 @@
+{"first_name":"Hamish","username":"hlees93","password":"password123","balance":0.0}
+{"history":"02/09/2018 at 21:46 - Deposit worth $234.32. Balance is now: $234.32","balance":234.32}
+{"history":"02/09/2018 at 21:46 - Deposit worth $34.56. Balance is now: $268.88","balance":268.88}
+{"history":"02/09/2018 at 21:46 - Withdrawal worth $34.45. Balance is now: $234.43","balance":234.43}
+{"history":"02/09/2018 at 21:46 - Withdrawal worth $100.0. Balance is now: $134.43","balance":134.43}
+{"history":"02/09/2018 at 21:46 - Withdrawal worth $84.54. Balance is now: $49.89","balance":49.89}
+{"history":"02/09/2018 at 21:46 - Deposit worth $122.23. Balance is now: $172.12","balance":172.12}
+{"history":"02/09/2018 at 21:47 - Deposit worth $45.54. Balance is now: $217.66","balance":217.66}
